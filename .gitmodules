@@ -1,0 +1,9 @@
+[submodule "tapngo-web"]
+	path = tapngo-web
+	url = https://github.com/teamheimdallr/tapngo-web
+[submodule "tapngo-zk"]
+	path = tapngo-zk
+	url = https://github.com/teamheimdallr/tapngo-zk
+[submodule "tapngo-contract"]
+	path = tapngo-contract
+	url = https://github.com/teamheimdallr/tapngo-contract
